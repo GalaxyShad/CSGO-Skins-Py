@@ -1,0 +1,3 @@
+CREATE USER api;
+CREATE DATABASE csgo_cases;
+GRANT ALL PRIVILEGES ON DATABASE csgo_cases TO api;
